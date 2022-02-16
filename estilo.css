@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(0.25turn, #32a6d8, #11dd77);
+  height: 375vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.titulo {
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #000000;
+}
+h1 {
+  font-size: 30px;
+}
+h5 {
+  font-size: 20px;
+}
+.tributo {
+  display: flex;
+  justify-content: center;
+  border-radius: 0px;
+}
+.quadrado {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/08/one-piece-4.jpg);
+}
+p {
+  position: absolute;
+  text-decoration: none;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  margin-top: 567px;
+  margin-left: 25vh;
+  font-weight: bold;
+}
+.top3,
+.top6,
+.top9,
+.top12 {
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-around;
+}
+.zoro {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/332/915/762/one-piece-roronoa-zoro-hd-wallpaper-preview.jpg);
+}
+.luffy {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://wallpaperaccess.com/full/2354902.jpg);
+}
+.sanji {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://i0.wp.com/img4.goodfon.com/wallpaper/nbig/0/c7/by-ajm-fairytail-vinsmoke-sanji-germa-66-worse-generation-sa.jpg);
+}
+.usopp {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://i.pinimg.com/originals/c8/b2/09/c8b2091cafe2f28140659875e9918b17.jpg);
+}
+.franky {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://wallpapercave.com/wp/wp1899320.jpg);
+}
+.chopper {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://www.teahub.io/photos/full/212-2122315_one-piece-chopper-wallpaper-hd.jpg);
+}
+.nami {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://2.bp.blogspot.com/-dVZPe0RgJhk/Uvy8BzhKBVI/AAAAAAAAD9U/q2abhDPQQtA/s1600/nami-one-piece-milopanic-d4uasri-wallpaper-1680x1050.jpg);
+}
+.brook {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://wallpapermemory.com/uploads/744/crossover-wallpaper-hd-1600x1200-130865.jpg);
+}
+.robin {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://cdn.wallpapersafari.com/77/26/ariMqQ.jpeg);
+}
+.jinbe {
+  width: 575px;
+  height: 595px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  background-image: url(https://www.greenscene.co.id/wp-content/uploads/2020/04/jinbe-3-696x497.jpg);
+}
+.rodape {
+  flex-direction: column;
+  text-align: center;
+  margin-top: 50px;
+  padding: 70px;
+  border-top: 2px solid #000000;
+}
